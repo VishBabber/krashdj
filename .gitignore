@@ -1,0 +1,7 @@
+# Source/original media (large, and includes unredacted files) - not deployed
+assets/
+
+# Local tooling
+.claude/
+.vercel/
+.DS_Store
